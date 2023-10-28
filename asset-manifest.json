@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Dscience/static/css/main.ecf65b54.css",
+    "main.js": "/Dscience/static/js/main.eb163ca5.js",
+    "static/media/gradient-abstract-5k-zm.jpg": "/Dscience/static/media/gradient-abstract-5k-zm.d1fcb3399cd906890921.jpg",
+    "static/media/universe-nebula-space-art-science-fiction-4k-uk.jpg": "/Dscience/static/media/universe-nebula-space-art-science-fiction-4k-uk.68783304e0d5fe8755ad.jpg",
+    "static/media/quan1.jpeg": "/Dscience/static/media/quan1.088018c770e7b305eb21.jpeg",
+    "static/media/quan2.jpeg": "/Dscience/static/media/quan2.48c594e94be461d7e5b3.jpeg",
+    "static/media/chandrayan.jpeg": "/Dscience/static/media/chandrayan.01e36f2c13660176fe6e.jpeg",
+    "static/media/spacedebris.jpeg": "/Dscience/static/media/spacedebris.fae854818ccbc668d079.jpeg",
+    "static/media/plant.jpeg": "/Dscience/static/media/plant.887655090cfbf8295f61.jpeg",
+    "static/media/mystery.jpeg": "/Dscience/static/media/mystery.fde87471c29dbb9fea24.jpeg",
+    "static/media/tweet.jpeg": "/Dscience/static/media/tweet.754d62b5ade16a2e54b2.jpeg",
+    "static/media/WhatsApp Image 2023-10-27 at 2.21.43 PM.jpeg": "/Dscience/static/media/WhatsApp Image 2023-10-27 at 2.21.43 PM.5ecf92eefbecdcbe3458.jpeg",
+    "static/media/cola.jpeg": "/Dscience/static/media/cola.8f4cbf37695955256b51.jpeg",
+    "static/media/webdev.jpeg": "/Dscience/static/media/webdev.a717a5190667232bbe55.jpeg",
+    "static/media/formula.jpeg": "/Dscience/static/media/formula.06c0efce6d160d5dd20b.jpeg",
+    "static/media/geo.jpeg": "/Dscience/static/media/geo.6ce541c38084e5d782f8.jpeg",
+    "static/media/bipar.jpeg": "/Dscience/static/media/bipar.0faf0fd16698988cd6fb.jpeg",
+    "index.html": "/Dscience/index.html",
+    "main.ecf65b54.css.map": "/Dscience/static/css/main.ecf65b54.css.map",
+    "main.eb163ca5.js.map": "/Dscience/static/js/main.eb163ca5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecf65b54.css",
+    "static/js/main.eb163ca5.js"
+  ]
+}
