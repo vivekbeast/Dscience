@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Dscience/static/css/main.e9f46a5d.css",
-    "main.js": "/Dscience/static/js/main.eb163ca5.js",
+    "main.css": "/Dscience/static/css/main.0b711ad6.css",
+    "main.js": "/Dscience/static/js/main.7faf6561.js",
     "static/media/gradient-abstract-5k-zm.jpg": "/Dscience/static/media/gradient-abstract-5k-zm.d1fcb3399cd906890921.jpg",
     "static/media/universe-nebula-space-art-science-fiction-4k-uk.jpg": "/Dscience/static/media/universe-nebula-space-art-science-fiction-4k-uk.68783304e0d5fe8755ad.jpg",
     "static/media/quan1.jpeg": "/Dscience/static/media/quan1.088018c770e7b305eb21.jpeg",
@@ -18,11 +18,11 @@
     "static/media/geo.jpeg": "/Dscience/static/media/geo.6ce541c38084e5d782f8.jpeg",
     "static/media/bipar.jpeg": "/Dscience/static/media/bipar.0faf0fd16698988cd6fb.jpeg",
     "index.html": "/Dscience/index.html",
-    "main.e9f46a5d.css.map": "/Dscience/static/css/main.e9f46a5d.css.map",
-    "main.eb163ca5.js.map": "/Dscience/static/js/main.eb163ca5.js.map"
+    "main.0b711ad6.css.map": "/Dscience/static/css/main.0b711ad6.css.map",
+    "main.7faf6561.js.map": "/Dscience/static/js/main.7faf6561.js.map"
   },
   "entrypoints": [
-    "static/css/main.e9f46a5d.css",
-    "static/js/main.eb163ca5.js"
+    "static/css/main.0b711ad6.css",
+    "static/js/main.7faf6561.js"
   ]
 }
